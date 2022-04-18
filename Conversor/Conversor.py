@@ -1,0 +1,16 @@
+main_value = int(input("Enter the main number in meters: "))
+print("The main number in centimeters is: {}".format(main_value * 100))
+print("The main number in millimeters is: {}".format(main_value * 1000))
+print("The main number in inches is: {}".format(main_value * 39.3701))
+print("The main number in feet is: {}".format(main_value * 3.28084))
+print("The main number in yards is: {}".format(main_value * 1.09361))
+print("The main number in miles is: {}".format(main_value * 0.00062137))
+print("The main number in kilometers is: {}".format(main_value * 0.001))
+print("The main number in light years is: {}".format(main_value * 0.00000000000001057))
+print("The main number in astronomical units is: {}".format(main_value * 0.00000000000000000324))
+print("The main number in parsecs is: {}".format(main_value * 0.00000000000000000324))
+print("The main number in light minutes is: {}".format(main_value * 0.00000000000000000324))
+print("The main number in light seconds is: {}".format(main_value * 0.00000000000000000324))
+print("The main number in light minutes is: {}".format(main_value * 0.00000000000000000324))
+
+
